@@ -1,4 +1,4 @@
-# iBOTS-LFP-Analysis-in-Python
+# LFP Analysis in Python
 iBOTS workshop: March 12-14, 2025
 
 Main Teacher: Dr. Atle E. Rimehaug
@@ -9,7 +9,7 @@ Main Teacher: Dr. Atle E. Rimehaug
     The Conda package manager Miniforge: https://conda-forge.org/download/
     Git: https://git-scm.com/downloads
 
-## Install the Environment or the course
+## Install the Environment for the course
 
 First, download this repository and move to the cloned directory
 
