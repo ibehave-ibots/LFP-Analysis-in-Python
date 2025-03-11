@@ -1,5 +1,5 @@
-# iBOTS-Intro-to-Python-for-Scientists
-iBOTS workshop: 11-03-2025 
+# iBOTS-LFP-Analysis-in-Python
+iBOTS workshop: March 12-14, 2025
 
 Main Teacher: Dr. Atle E. Rimehaug
 
